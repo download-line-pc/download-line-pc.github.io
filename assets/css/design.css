@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@500&family=Mitr:wght@500&family=Prompt:ital@1&family=Sarabun:wght@600&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.6.1/font/bootstrap-icons.css");
+
+
+/*
+font-family: 'Bai Jamjuree', sans-serif;
+font-family: 'Mitr', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Sarabun', sans-serif;
+*/
+h1{font-family: 'Mitr', sans-serif;}
+h2{font-family: 'Mitr', sans-serif;}
+h3{font-family: 'Mitr', sans-serif;}
+h4{font-family: 'Mitr', sans-serif;}
+h5{font-family: 'Mitr', sans-serif;}
+body{
+font-family: 'Sarabun', sans-serif;
+font-size: 16px;
+color: #333333;
+background-color: #e7e7e7;
+}
+.container{max-width: 1000px !important}
+.nav-link {font-size: 16px; color: #68944A !important; font-weight: 500;}
+.nav-link:hover {color: #cc9152 !important;}
+.navbar-toggler{background-color: #68944A !important;}
+.dropdown-menu{background-color: #f26622 !important;}
+.main_box{background-color: #FFFFFF; min-height: 500px;}
+.footer_box{background-color: #FFFFFF;}
+.head_box{padding: 10px;}
+.title_link{color:#000000; text-decoration: none;}
+.title_link:hover{color:#333333;}
+.left_nav_link {font-size: 16px; color: #68944A !important; font-weight: 500;}
+.logo_xs{max-height: 60px;}
+.text_link{color: #68944A !important ;}
+.download_bt{background: linear-gradient(180deg, rgba(77,151,228,1) 0%, rgba(36,104,210,1) 100%); border: 0;}
+.download_bt:hover{background: linear-gradient(180deg, rgba(110,168,228,1) 0%, rgba(26,88,186,1) 100%); border: 0;}
+li page-item a.active{color: #FFFFFF !important;}
+
+
+pre code {
+  background-color: #EEEEEE;
+  border: 1px solid #CCCCCC;
+  display: block;
+  padding: 20px;
+  color: #000000;
+}
+
+.modal.custom .modal-dialog {
+    width:20%;
+    position:fixed;
+    bottom:0;
+    left:0;
+    margin:0;
+    border: 0px !important;
+}
+.rounded-4{border-radius: 10px;}
+
+
+/* X-Small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  .home_content_box{padding: 10px;}
+}
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) {
+  .home_content_box{padding: 10px}
+
+}
+
+/* Medium devices (tablets, less than 992px)*/
+@media (max-width: 991.98px) {
+  .home_content_box{padding: 10px}
+
+}
+
+/* Large devices (desktops, less than 1200px)*/
+@media (max-width: 1199.98px) {
+  .home_content_box{padding: 10px}
+
+}
+
+/* X-Large devices (large desktops, less than 1400px)*/
+@media (min-width: 1199.99px) {
+  .home_content_box{padding: 10px 50px;}
+
+ }
+

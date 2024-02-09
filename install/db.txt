@@ -1,0 +1,4 @@
+Database:	apmediaco_blog
+Host:	localhost
+Username:	apmediaco_blog
+Password:	je9P8KoxQ

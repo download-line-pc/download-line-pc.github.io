@@ -1,0 +1,26 @@
+[24-Jul-2023 02:14:52 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[24-Jul-2023 02:14:52 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[24-Jul-2023 02:14:52 UTC] PHP Notice:  Undefined index: check_db in /home/r33o4gwqnylh/public_html/install/index.php on line 31
+[24-Jul-2023 02:14:58 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[24-Jul-2023 02:14:58 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[24-Jul-2023 02:15:01 UTC] PHP Notice:  Undefined index: site_config in /home/r33o4gwqnylh/public_html/install/step-3.php on line 120
+[24-Jul-2023 02:15:29 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[24-Jul-2023 02:15:29 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[24-Jul-2023 02:15:29 UTC] PHP Notice:  Undefined index: add_user in /home/r33o4gwqnylh/public_html/install/step-4.php on line 115
+[24-Jul-2023 02:15:44 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[24-Jul-2023 02:15:44 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[24-Jul-2023 02:15:44 UTC] PHP Warning:  Use of undefined constant user_email - assumed 'user_email' (this will throw an Error in a future version of PHP) in /home/r33o4gwqnylh/public_html/install/step-4.php on line 119
+[24-Jul-2023 02:15:44 UTC] PHP Warning:  Use of undefined constant user_password - assumed 'user_password' (this will throw an Error in a future version of PHP) in /home/r33o4gwqnylh/public_html/install/step-4.php on line 120
+[27-Jul-2023 09:44:02 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[27-Jul-2023 09:44:02 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[27-Jul-2023 09:44:02 UTC] PHP Notice:  Undefined index: check_db in /home/r33o4gwqnylh/public_html/install/index.php on line 31
+[27-Jul-2023 09:44:40 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[27-Jul-2023 09:44:40 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/index.php on line 2
+[27-Jul-2023 09:44:44 UTC] PHP Notice:  Undefined index: site_config in /home/r33o4gwqnylh/public_html/install/step-3.php on line 120
+[27-Jul-2023 09:45:19 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[27-Jul-2023 09:45:19 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[27-Jul-2023 09:45:19 UTC] PHP Notice:  Undefined index: add_user in /home/r33o4gwqnylh/public_html/install/step-4.php on line 115
+[27-Jul-2023 09:45:47 UTC] PHP Warning:  include(dashboard/Config.php): failed to open stream: No such file or directory in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[27-Jul-2023 09:45:47 UTC] PHP Warning:  include(): Failed opening 'dashboard/Config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/r33o4gwqnylh/public_html/install/step-4.php on line 2
+[27-Jul-2023 09:45:47 UTC] PHP Warning:  Use of undefined constant user_email - assumed 'user_email' (this will throw an Error in a future version of PHP) in /home/r33o4gwqnylh/public_html/install/step-4.php on line 119
+[27-Jul-2023 09:45:47 UTC] PHP Warning:  Use of undefined constant user_password - assumed 'user_password' (this will throw an Error in a future version of PHP) in /home/r33o4gwqnylh/public_html/install/step-4.php on line 120

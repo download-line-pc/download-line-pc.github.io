@@ -57,8 +57,12 @@ $img_result = "img/header_download.jpg";
    <div class="container" style="padding-top:350px;">
       <h1 class="mitr-bold">กำลังดาวน์โหลด LINE PC... <span id="seconds" class="text-secondary"></span></h1>
     
-    
-          
+      <h3 class="mitr-regular text-primary">ระบบกำลังเริ่ม Download อัตโนมัติ</h3> 
+
+      <h5 class="mitr-regular text-secondary">หากดาวน์โหลดไม่ได้ ให้ Download จาก Server สำรองนี้</h5>     
+
+      <a href="https://desktop.line-scdn.net/win/new/LineInst.exe" class="btn btn-secondary bg-gradient" style="padding-left:150px;padding-right:150px; height: 60px; border: none;"><h1 class="mitr-regular">Download</h1></a>
+
     </div>
 
 </div>

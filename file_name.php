@@ -150,7 +150,95 @@
           if ($file_name_int == 180) {        
             $new_file_name = "download-line-pc-0180.php";                   
           }
-        
+
+          if ($file_name_int == 190) {        
+            $new_file_name = "download-line-pc-0190.php";                   
+          }
+
+          if ($file_name_int == 200) {        
+            $new_file_name = "download-line-pc-0200.php";                   
+          }
+
+          if ($file_name_int == 201) {        
+            $new_file_name = "download-line-pc-0201.php";                   
+          }
+
+          if ($file_name_int == 202) {        
+            $new_file_name = "download-line-pc-0202.php";                   
+          }
+
+          if ($file_name_int == 203) {        
+            $new_file_name = "download-line-pc-0203.php";                   
+          }
+
+          if ($file_name_int == 204) {        
+            $new_file_name = "download-line-pc-0204.php";                   
+          }
+
+          if ($file_name_int == 205) {        
+            $new_file_name = "download-line-pc-0205.php";                   
+          }
+
+          if ($file_name_int == 206) {        
+            $new_file_name = "download-line-pc-0206.php";                   
+          }
+
+          if ($file_name_int == 207) {        
+            $new_file_name = "download-line-pc-0207.php";                   
+          }
+
+          if ($file_name_int == 208) {        
+            $new_file_name = "download-line-pc-0208.php";                   
+          }
+
+          if ($file_name_int == 209) {        
+            $new_file_name = "download-line-pc-0209.php";                   
+          }
+
+          if ($file_name_int == 210) {        
+            $new_file_name = "download-line-pc-0210.php";                   
+          }
+
+          if ($file_name_int == 220) {        
+            $new_file_name = "download-line-pc-0220.php";                   
+          }
+
+          if ($file_name_int == 230) {        
+            $new_file_name = "download-line-pc-0230.php";                   
+          }
+
+          if ($file_name_int == 240) {        
+            $new_file_name = "download-line-pc-0240.php";                   
+          }
+
+          if ($file_name_int == 250) {        
+            $new_file_name = "download-line-pc-0250.php";                   
+          }
+
+          if ($file_name_int == 260) {        
+            $new_file_name = "download-line-pc-0260.php";                   
+          }
+
+          if ($file_name_int == 270) {        
+            $new_file_name = "download-line-pc-0270.php";                   
+          }
+
+          if ($file_name_int == 280) {        
+            $new_file_name = "download-line-pc-0280.php";                   
+          }
+
+          if ($file_name_int == 290) {        
+            $new_file_name = "download-line-pc-0290.php";                   
+          }
+
+
+          if ($file_name_int == 300) {        
+            $new_file_name = "download-line-pc-0300.php";                   
+          }
+
+          if ($file_name_int == 301) {        
+            $new_file_name = "download-line-pc-0301.php";                   
+          }        
 ?>
 
 <div class="container d-flex justify-content-end mt-4">
